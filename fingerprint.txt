@@ -1,0 +1,14 @@
+SHA256:ifj7TS3tQTAML4RsOv0SK9RCiwBSRSjjBnXzxHYpiZM hafedh@hafedh-Inspiron-5537
+The key's randomart image is:
++---[RSA 3072]----+
+|+oo+==.oo.       |
+|* ..E+O.o+       |
+|o+ o O.o. =      |
+| o. *.+. o o     |
+|.  ..o.+S   .    |
+|    ..o .  +     |
+|     ...  o +    |
+|       . o o .   |
+|      ... . .    |
++----[SHA256]-----+
+
